@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kate</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3> My projects: </h3>  
+
+<img src="https://s.w.org/images/core/emoji/14.0.0/svg/1f3db.svg" height="22"/> [Оно Тебе Надо](https://katebolotova.github.io/ono-tebe-nado/)  
+<img src="https://s.w.org/images/core/emoji/14.0.0/svg/1fa9f.svg" height="22"/> [Посмотри в окно](https://katebolotova.github.io/posmotri_v_okno/)  
+<img src="https://s.w.org/images/core/emoji/14.0.0/svg/1f550.svg" height="22"/> [Сложно сосредоточиться](https://katebolotova.github.io/slozhno-sosredotochitsya/)  
+<img src="https://s.w.org/images/core/emoji/14.0.0/svg/1f485.svg" height="22"/> [Beauty Bar](https://katebolotova.github.io/BeautyBar/)  
+
 
 <!--
 **KateBolotova/KateBolotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
