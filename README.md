@@ -8,6 +8,7 @@
 <img src="https://s.w.org/images/core/emoji/14.0.0/svg/1f550.svg" height="22"/> [Сложно сосредоточиться](https://katebolotova.github.io/slozhno-sosredotochitsya/)  
 <img src="https://s.w.org/images/core/emoji/14.0.0/svg/1f485.svg" height="22"/> [Beauty Bar](https://katebolotova.github.io/BeautyBar/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateBolotova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KateBolotova/KateBolotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
